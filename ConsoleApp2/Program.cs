@@ -298,6 +298,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            //Начало
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Game NewGame = new Game();
 
