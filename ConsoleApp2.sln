@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{0273C764-26B0-4429-A94D-6E465B099FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{0273C764-26B0-4429-A94D-6E465B099FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureIerarhy", "FigureIerarhy\FigureIerarhy.csproj", "{EA644FB3-12E5-433C-870F-E2A4F128AE7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0273C764-26B0-4429-A94D-6E465B099FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0273C764-26B0-4429-A94D-6E465B099FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0273C764-26B0-4429-A94D-6E465B099FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA644FB3-12E5-433C-870F-E2A4F128AE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA644FB3-12E5-433C-870F-E2A4F128AE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA644FB3-12E5-433C-870F-E2A4F128AE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA644FB3-12E5-433C-870F-E2A4F128AE7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

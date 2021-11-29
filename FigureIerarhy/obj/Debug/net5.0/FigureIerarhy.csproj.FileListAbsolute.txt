@@ -1,0 +1,5 @@
+C:\Users\3213897\source\repos\ConsoleApp2\FigureIerarhy\obj\Debug\net5.0\FigureIerarhy.csproj.AssemblyReference.cache
+C:\Users\3213897\source\repos\ConsoleApp2\FigureIerarhy\obj\Debug\net5.0\FigureIerarhy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3213897\source\repos\ConsoleApp2\FigureIerarhy\obj\Debug\net5.0\FigureIerarhy.AssemblyInfoInputs.cache
+C:\Users\3213897\source\repos\ConsoleApp2\FigureIerarhy\obj\Debug\net5.0\FigureIerarhy.AssemblyInfo.cs
+C:\Users\3213897\source\repos\ConsoleApp2\FigureIerarhy\obj\Debug\net5.0\FigureIerarhy.csproj.CoreCompileInputs.cache
