@@ -13,18 +13,22 @@ namespace FigureIerarhy
        
         public ClosedFigure(string name, Point[] points)
           => (Name, Points ) = (name, points) ;
+        public void AddPoint(int index, string name, int x, int y)
+        {
+            Points[index] = new Point (name,x,y);
+        }
 
-        public double Perimetr()
+        virtual public double Perimetr()
         {
 
             return 0;
         }
       
-        public double Square()
+        virtual public double Square()
         {
             return 0;
         }
-        public void Draw()
+        virtual public void Draw()
         {
 
 

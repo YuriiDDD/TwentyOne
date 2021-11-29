@@ -13,15 +13,18 @@ namespace FigureIerarhy
        
         public OpenFigure(string name, Point[] points )
           => (Name, Points) = (name, points);
+        public void AddPoint(int index, string name, int x, int y)
+        {
+            Points[index] = new Point(name, x, y);
+        }
 
-       
-        public double Length()
+        virtual public double Length()
         {
 
             return 0;
         }
        
-        public void Draw()
+        virtual public void Draw()
         {
 
 
