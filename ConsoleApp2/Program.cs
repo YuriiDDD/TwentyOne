@@ -84,6 +84,11 @@ namespace ConsoleApp2
             return result;
         }
     }
+   
+    
+    
+    
+    
     // Игрок
     public class Player
     {
