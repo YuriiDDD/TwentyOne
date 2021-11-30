@@ -1,0 +1,16 @@
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.csproj.AssemblyReference.cache
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.AssemblyInfoInputs.cache
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.AssemblyInfo.cs
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.csproj.CoreCompileInputs.cache
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\FileWorks.exe
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\FileWorks.deps.json
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\FileWorks.runtimeconfig.json
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\FileWorks.runtimeconfig.dev.json
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\FileWorks.dll
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\ref\FileWorks.dll
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\bin\Debug\net5.0\FileWorks.pdb
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.dll
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\ref\FileWorks.dll
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.pdb
+C:\Users\3213897\source\repos\ConsoleApp2\FileWorks\obj\Debug\net5.0\FileWorks.genruntimeconfig.cache

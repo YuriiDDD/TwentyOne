@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{0273C764-26B0-4429-A94D-6E465B099FCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureIerarhy", "FigureIerarhy\FigureIerarhy.csproj", "{EA644FB3-12E5-433C-870F-E2A4F128AE7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureIerarhy", "FigureIerarhy\FigureIerarhy.csproj", "{EA644FB3-12E5-433C-870F-E2A4F128AE7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{D5810CC9-6CFD-401D-9E2B-F1F40D03E83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee", "Employee\Employee.csproj", "{D5810CC9-6CFD-401D-9E2B-F1F40D03E83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWorks", "FileWorks\FileWorks.csproj", "{B622DD34-E6D1-4455-B384-F17A7C9C2188}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D5810CC9-6CFD-401D-9E2B-F1F40D03E83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5810CC9-6CFD-401D-9E2B-F1F40D03E83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5810CC9-6CFD-401D-9E2B-F1F40D03E83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B622DD34-E6D1-4455-B384-F17A7C9C2188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B622DD34-E6D1-4455-B384-F17A7C9C2188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B622DD34-E6D1-4455-B384-F17A7C9C2188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B622DD34-E6D1-4455-B384-F17A7C9C2188}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
